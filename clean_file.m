@@ -1,7 +1,9 @@
+% This file read the csv file and clean the elements that are not useful
+% Diana Alvarez
+
 clc
 clear
 tic
-% a=readtable('table_mov.csv');
 a=readtable('dat_mov_001_backup.csv');
 toc
 close all
