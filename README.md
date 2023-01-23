@@ -1,4 +1,4 @@
-# Anomaly_detection
+# Anomaly detection
 This code allows to determine anomaly detection of transmission kpis related to base stations
 
 # General Objetive
